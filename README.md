@@ -31,6 +31,7 @@ The S-UODAC2020 dataset can be downloaded from -[This link](https://github.com/m
 
 ### Training
 As an example, we apply the proposed SPIR-DFM to the Faster-RCNN target detector:
+    
     cd tools
     python train.py --config="../configs/spir_faster.py"
 
@@ -38,6 +39,7 @@ As an example, we apply the proposed SPIR-DFM to the Faster-RCNN target detector
 
 ### Evaluation
 Run the evaluation by:
+    
     cd tools
     python test.py --config="../configs/spir_faster.py" --checkpoint="../ckpt/res50_sdfm.pth"
 
