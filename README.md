@@ -12,7 +12,7 @@ Generalization Object Detection </h1>
 This repository contains the code for our paper `Self-Supervised Domain Feature Mining for Underwater Domain
 Generalization Object Detection`.
 
-
+![](figs/fig1.png)
 
 ## 💡Environment
 
