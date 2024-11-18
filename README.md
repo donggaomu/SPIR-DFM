@@ -42,6 +42,8 @@ Run the evaluation by:
     $ python tools/test.py configs/spir_faster.py <path/to/checkpoints>
 
 We will provide our Training weight at this link:
+(https://pan.baidu.com/s/1TEupULSBubJRQxkR4fz2Pg)
+passward: 0011
 
 
 ## 🙏Acknowledgements
